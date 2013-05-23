@@ -1,0 +1,10 @@
+{
+	"modid": "LetsMod",
+	"name": "Let's Mod",
+	"description": "An example mod!",
+	"version": "@VERSION@ (Build @BUILD_NUMBER@)"
+	"url": "http://jacobmansfield.co.uk/"
+	"authorList": [
+		"cyberjacob"
+	]
+}
